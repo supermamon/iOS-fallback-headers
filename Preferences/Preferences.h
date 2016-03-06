@@ -6,3 +6,4 @@
 #import <Preferences/PSListController.h>
 #import <Preferences/PSTableCell.h>
 #import <Preferences/PSRootController.h>
+#import "PSSpecifier+Missing.h"
